@@ -1,3 +1,8 @@
+YAMAK is a non-profit platform designed to facilitate communication between people who need roadside assistance and independent service providers.
+YAMAK's role is limited to connecting users with service providers. YAMAK does not directly provide roadside services, set prices, collect payments, issue invoices, or participate in any financial transaction between the user and the service provider.
+The type of service, pricing, payment method, and any other commercial terms are agreed directly between the user and the independent service provider.
+YAMAK is also not responsible for the quality, performance, delay, outcome, or any dispute arising from the service provided by an independent service provider.
+
 # YAMAK NEW — UI/UX DESIGN PHASE (YAMAK-DESIGN-001)
 
 > **DESIGN STATUS: PROPOSED — REQUIRES USER REVIEW AND APPROVAL.**
